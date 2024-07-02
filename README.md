@@ -39,18 +39,18 @@ rustup target add wasm32-unknown-unknown
 Clone this repository with Git:
   
 ```bash
-git clone https://jannden.github.io/leptos_axum_tailwind
+git clone https://github.com/jannden/leptos_axum_tailwind
 ```
 
 Or optionally with Leptos:
 
 ```bash
-cargo leptos new --git https://jannden.github.io/leptos_axum_tailwind
+cargo leptos new --git https://github.com/jannden/leptos_axum_tailwind
 ```
 
 ## Quick Start
 
-Open the project directory:
+Open the project directory, eg.:
 
 ```bash
 cd leptos_axum_tailwind
@@ -69,4 +69,6 @@ Start the server:
 cargo leptos watch
 ```
 
-Open your browser and navigate to `http://localhost:3000`. The page is hot-reloaded when you make changes to the source code.
+Open your browser and navigate to `http://localhost:3000`.
+
+The page is hot-reloaded when you make changes to the source code.
