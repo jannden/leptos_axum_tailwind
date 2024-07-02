@@ -1,0 +1,6 @@
+{
+  "name": "leptos_axum_tailwind",
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
